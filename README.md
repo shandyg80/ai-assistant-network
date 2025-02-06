@@ -1,2 +1,8 @@
-# ai-assistant-network
- A network of AI assistants working together to automate development tasks. Includes implementation assistant, screen reader, and GitHub integration. ```
+# AI Assistant Network  
+  
+A network of AI assistants working together to automate development tasks.  
+  
+## Components  
+  
+- **AI Implementer**: Core assistant that executes instructions  
+- **Run As Admin**: Utility to handle administrative privileges 
